@@ -1,0 +1,1 @@
+print(int(input('Enter first value :')) + int(input('Enter second value : ')))
